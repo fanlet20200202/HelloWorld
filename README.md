@@ -1,10 +1,10 @@
-Hello-world
+Hello-world:
 
-This is a hello file
+This is a hello file.
 
-Hello,everyone
+Hello,everyone!
 
 Today,we will give you a big apple.
 
-That's GitHub for you.
+That's GitHub bring to you.
 
