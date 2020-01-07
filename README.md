@@ -7,4 +7,3 @@ Hello,everyone!
 Today,we will give you a big apple.
 
 That's GitHub bring to you.
-
